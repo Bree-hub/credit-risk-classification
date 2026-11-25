@@ -17,7 +17,7 @@ Course project for ISM 6358 [FULL COURSE NAME], Seattle Pacific University, Aug 
 
 ## Data
 
-- **Source:** [DATASET NAME], provided for the course. [SOURCE LINK, or "no public source"]
+- **Source:** Dataset, provided for the course. [no public source]
 - **Size:** 425 past borrowers, 11 features plus the High / Low risk label. The classes are balanced (211 high, 214 low) and nothing is missing
 - **Features:** loan purpose, checking balance, savings balance, months as a customer, months employed, gender, marital status, age, housing, years, job
 - **Not in this repo:** the data file. It came with the course and I couldn't find a license that lets me share it. To run the notebook, put `Credit Risk Data.xlsx` in `data/`
