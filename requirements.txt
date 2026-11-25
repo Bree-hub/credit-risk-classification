@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+jupyter
+# optional: the notebook skips XGBoost if it isn't installed
+xgboost

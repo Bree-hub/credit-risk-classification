@@ -1,0 +1,8 @@
+# Course data stays out of the repo (not mine to redistribute)
+data/
+*.xlsx
+*.csv
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
